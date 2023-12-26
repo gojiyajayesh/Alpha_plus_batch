@@ -17,4 +17,5 @@
 <ol type="i">
 <li>Boiler Plate code</li>
 <li>Hello World! Program</li>
+<li>Java variable</li>
 </ol>
