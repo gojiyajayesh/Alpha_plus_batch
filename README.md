@@ -20,4 +20,5 @@
 <li>Java variable's</li>
 <li>Sum of two number</li>
 <li>Comment in java</li>
+<li>how to take input in java</li>
 </ol>
