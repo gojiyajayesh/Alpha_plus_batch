@@ -25,7 +25,7 @@
 <li>Type Conversion</li>
 <li>Type Promotion</li>
 <li>
-<dl>
+<dl type="a">
 <dt>Question's Solution
 </dt>
 <dd>Average of three number</dd>
