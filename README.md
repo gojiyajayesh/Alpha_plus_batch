@@ -24,6 +24,11 @@
 <li>Type Casting</li>
 <li>Type Conversion</li>
 <li>Type Promotion</li>
-<li>Questions</li>
-<li>Solution</li>
 </ol>
+<dl>
+<dt>Question's Solution
+</dt>
+<dd>Average of three number</dd>
+<dd>Area of square</dd>
+<dd>Gst bill</dd>
+</dl>
