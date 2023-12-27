@@ -24,6 +24,6 @@
 <li>Type Casting</li>
 <li>Type Conversion</li>
 <li>Type Promotion</li>
-<li>Chapter-4 Questions</li>
+<li>Questions</li>
 <li>Solution</li>
 </ol>
