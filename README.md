@@ -26,8 +26,8 @@
 <li>Type Promotion</li>
 <li>
 Question's Solution<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Average of three number<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Area of square<br>
-&nbsp;&nbsp;&nbsp;&nbsp;Gst bill<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&#128308;Average of three number<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&#128308;Area of square<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&#128308;Gst bill<br>
 </li>
 </ol>
