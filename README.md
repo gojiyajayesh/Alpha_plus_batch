@@ -25,12 +25,9 @@
 <li>Type Conversion</li>
 <li>Type Promotion</li>
 <li>
-<dl type="a">
-<dt>Question's Solution
-</dt>
-<dd>Average of three number</dd>
-<dd>Area of square</dd>
-<dd>Gst bill</dd>
-</dl>
+Question's Solution<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Average of three number<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Area of square<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Gst bill<br>
 </li>
 </ol>
