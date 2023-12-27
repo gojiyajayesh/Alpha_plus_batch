@@ -20,5 +20,10 @@
 <li>Java variable's</li>
 <li>Sum of two number</li>
 <li>Comment in java</li>
-<li>how to take input in java</li1
+<li>how to take input in java</li>
+<li>Type Casting</li>
+<li>Type Conversion</li>
+<li>Type Promotion</li>
+<li>Chapter-4 Questions</li>
+<li>Solution</li>
 </ol>
