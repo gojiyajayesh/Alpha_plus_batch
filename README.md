@@ -24,7 +24,7 @@
 <li>Type Casting</li>
 <li>Type Conversion</li>
 <li>Type Promotion</li>
-</ol>
+
 <dl>
 <dt>Question's Solution
 </dt>
@@ -32,3 +32,4 @@
 <dd>Area of square</dd>
 <dd>Gst bill</dd>
 </dl>
+</ol>
