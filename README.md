@@ -76,3 +76,11 @@
    - Multiplication Table
    - What is Wrong in given code
 ```
+## Chapter-8 &nbsp;&nbsp;&nbsp;&nbsp; Date:-30/12/2023
+```
+1. Star Pattern
+2. Reverse star pattern
+3. Halt pyramid pattern
+4. Charactor pyramid
+5. Advanced in next 10th chapter
+```
