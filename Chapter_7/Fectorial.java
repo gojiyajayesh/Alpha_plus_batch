@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
-public class Fectorial {
+import java.util.*;
+public class Fectorial{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Number you find");
@@ -11,6 +10,6 @@ public class Fectorial {
             fec*=i;
         }
         System.out.println(fec);
+        sc.close();
     }
-
 }

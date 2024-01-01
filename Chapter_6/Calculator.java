@@ -29,5 +29,6 @@ public class Calculator {
             default:
             System.out.println("Please Enter Valid Opration");
         }
+        sc.close();
     }
 }

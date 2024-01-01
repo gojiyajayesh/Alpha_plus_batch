@@ -19,5 +19,7 @@ public class Input_in_java {
         System.out.println(f);
         System.out.println(g);
         System.out.println(h);
+        sc.close();
+        
     }
 }

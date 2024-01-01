@@ -9,5 +9,6 @@ public class Gst_bill {
         System.out.println(bill);
         int $=24;
         System.out.println($);
+        sc.close();
     }
 }

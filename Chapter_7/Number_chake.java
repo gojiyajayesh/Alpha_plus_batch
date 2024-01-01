@@ -9,5 +9,7 @@ public class Number_chake {
             break;
             System.out.println(n);
         }while(true);
+        sc.close();
     }
+    
 }

@@ -11,5 +11,6 @@ public class Average_of_three_number {
         int B=sc.nextInt();
         int C=sc.nextInt();
         System.out.println((A+B+C)/3);
+        sc.close();
     }
 }

@@ -9,5 +9,6 @@ public class Multiplyin {
             System.out.printf("%d x %d\t= %d",n,i,n*i);
             System.out.println();
         }
+        sc.close();
     }
 }

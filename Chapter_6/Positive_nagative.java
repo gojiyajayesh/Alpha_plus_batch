@@ -9,5 +9,6 @@ public class Positive_nagative {
         System.out.println("this is a positive Number");
         else
         System.out.println("this is a nagative Number");
+        sc.close();
     }
 }

@@ -11,6 +11,6 @@ public class Income_tax {
         else
         tax=income*0.3f;
         System.out.println("Total MRP="+(income+tax));
-
+        sc.close();
     }
 }

@@ -31,5 +31,6 @@ public class week {
             default:
             System.out.println("Please Enter Valid Number");
         }
+        sc.close();
     }
 }

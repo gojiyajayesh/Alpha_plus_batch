@@ -15,5 +15,6 @@ public class Sum_of_even_odd {
         }
         System.out.println("Even Sum="+even_sum);
         System.out.println("Odd Sum="+odd_sum);
+        sc.close();
     }
 }

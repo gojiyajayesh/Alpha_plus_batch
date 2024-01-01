@@ -1,6 +1,6 @@
-import java.util.Scanner;
+import java.util.*;
 
-public class Prime_number {
+public class Prime_number{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int no=sc.nextInt();
@@ -17,5 +17,6 @@ public class Prime_number {
         }
          if(flag!=1&&no!=1)
          System.out.println("This is a prime number");
+         sc.close();
     }
 }
