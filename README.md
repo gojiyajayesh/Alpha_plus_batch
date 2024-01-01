@@ -15,15 +15,15 @@
 ```
 ## Chapter-4 &nbsp;&nbsp;&nbsp;&nbsp; Date:-26/12/2023
 ```
-1. Boiler Plate code
-2. Hello World! Program
-3. Java variable's
-4. Sum of two number
-5. Comment in java
-6. how to take input in java
-7. Type Casting
-8. Type Conversion
-9. Type Promotion
+ 1. Boiler Plate code
+ 2. Hello World! Program
+ 3. Java variable's
+ 4. Sum of two number
+ 5. Comment in java
+ 6. how to take input in java
+ 7. Type Casting
+ 8. Type Conversion
+ 9. Type Promotion
 10. Question's Solution
       - Average of three number
       - Area of square
@@ -44,15 +44,15 @@
 ```
 ## Chapter-6 &nbsp;&nbsp;&nbsp;&nbsp; Date:-28/12/2023
 ```
-1. if else 
-2. largest of two number
-3. Even Or Odd Number
-4. else if
-5. Income tax Calculator
-6. Largest of three number
-7. Ternary Oprator
-8. Pass Or Fail
-9. Switch Case
+ 1. if else 
+ 2. largest of two number
+ 3. Even Or Odd Number
+ 4. else if
+ 5. Income tax Calculator
+ 6. Largest of three number
+ 7. Ternary Oprator
+ 8. Pass Or Fail
+ 9. Switch Case
 10. Calculator
 11. Questions
     - positive or nagative
@@ -86,5 +86,23 @@
 ```
 ## Chapter-9 &nbsp;&nbsp;&nbsp;&nbsp; Date:-31/12/2023
 ```
-
-```
+ 1. Average of three number
+ 2. Binary to Desimal Number
+ 3. Binomial Function
+ 4. Block of Acope
+ 5. Decimal to Binary
+ 6. Fectorial
+ 7. Function
+ 8. Method OverLoding 
+ 9. Method Overloding data type
+1.  Passed parameter function
+2.  Product of two number
+3.  Range of Prime number
+4.  Prime number
+5.  Swaped two number
+6.  Fuction Questions
+    - Sum of integer number
+    - Palindrome Number
+    - Even or Odd
+    - Math(Class in java t Point Web site)
+    ```
