@@ -1,4 +1,4 @@
-public class Else_if {
+public class Else_if{
     public static void main(String[] args) {
         int age=18;
         if(age>=18)
