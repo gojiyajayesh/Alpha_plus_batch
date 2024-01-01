@@ -105,4 +105,4 @@
     - Palindrome Number
     - Even or Odd
     - Math(Class in java t Point Web site)
-    ```
+```
