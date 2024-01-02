@@ -106,6 +106,9 @@
     - Even or Odd
     - Math(Class in java t Point Web site)
 ```
+## Happy New Year🥳  Date:-01/01/2024
+```
+```
 ## Chapter-10 &nbsp;&nbsp;&nbsp;&nbsp; Date:-02/01/2024
 ```
  1. Hollow Rectangle pattern
