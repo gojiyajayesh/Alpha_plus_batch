@@ -127,7 +127,7 @@
     -Palidromic pattern 
     -Raj Pavara Example
 ```
-## Chapter-11 &nbsp;&nbsp;&nbsp:&nbsp; Date:-03/01/2024
+## Chapter-11 &nbsp;&nbsp;&nbsp;&nbsp; Date:-03/01/2024
 ```
  1. Arrays
  2. Array pass as argument
