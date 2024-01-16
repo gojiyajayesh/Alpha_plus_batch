@@ -140,3 +140,15 @@
  9. Reverse Array
 10. Sub Arrays
 ```
+## Chapter-12 &nbsp;&nbsp;&nbsp;&nbsp; Date:-03/01/2024
+```
+ 1. Max in Sub Array Using Prefix Array
+ 2. Kadanse Algorithm
+ 3. Max in Sub Array
+ 4. Tapping Rainwater 
+ 5. Tapping Rainwater Axiliary Array
+ 6. Buy Sell Stock Max Profit
+ 7. Questions Chapter-12
+    - Twise Problem
+    - Binary Search Aproch
+```
