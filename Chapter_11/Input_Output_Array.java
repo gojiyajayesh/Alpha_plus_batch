@@ -12,5 +12,6 @@ public class Input_Output_Array {
             str[i]="jayesh";
             System.out.print(str[i]+" ");
         }
+        sc.close();
     }
 }

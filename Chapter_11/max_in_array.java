@@ -1,7 +1,6 @@
 /**
  * max_in_array
  */
-import java.util.*;
 public class max_in_array {
 
     public static void main(String[] args) {
