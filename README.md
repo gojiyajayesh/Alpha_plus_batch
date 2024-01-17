@@ -151,4 +151,7 @@
  7. Questions Chapter-12
     - Twise Problem
     - Binary Search Aproch
+    - Tapping Rain Water
+    - Max Profit Stock
+    - Triplet's and Not repeat's
 ```
