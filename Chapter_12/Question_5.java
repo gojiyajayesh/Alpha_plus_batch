@@ -6,6 +6,8 @@ public class Question_5 {
    // This solution is not complate becase HashSet Chapter is Not Learn   after this chapter Solve complate this solution
     public static void triplets(int arr[]) {
         int n=arr.length;
+        if(n<3)
+        return;
         for(int i=0;i<n;i++)
         {
             for(int j=i+1;j<n;j++)

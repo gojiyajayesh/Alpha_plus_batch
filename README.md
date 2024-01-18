@@ -140,7 +140,7 @@
  9. Reverse Array
 10. Sub Arrays
 ```
-## Chapter-12 &nbsp;&nbsp;&nbsp;&nbsp; Date:-03/01/2024
+## Chapter-12 &nbsp;&nbsp;&nbsp;&nbsp; Date:-17/01/2024
 ```
  1. Max in Sub Array Using Prefix Array
  2. Kadanse Algorithm
@@ -154,4 +154,12 @@
     - Tapping Rain Water
     - Max Profit Stock
     - Triplet's and Not repeat's
+```
+## Chapter-13 &nbsp;&nbsp;&nbsp;&nbsp; Date:-18/01/2024
+```
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Sort Inbuilt Function's
+5. Counting Sort
 ```
