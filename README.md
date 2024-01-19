@@ -163,3 +163,14 @@
 4. Sort Inbuilt Function's
 5. Counting Sort
 ```
+## Chapter-14 &nbsp;&nbsp;&nbsp;&nbsp; Date:-19/01/2024
+```
+1. 2 D Array
+2. Spiral Matrix [google amezon microsoft facebook apple asked]
+3. Sum Of Matrix Diagonal 
+4. Search in SortMatrix 
+5. Question's
+   -Given Number How many time in Matrix
+   -Sum of Given Row In Matrix
+   -Transport Of Matrix
+```
