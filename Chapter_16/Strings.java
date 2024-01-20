@@ -7,5 +7,6 @@ public class Strings {
         String str2=new String("Jayesh");
         System.out.println(str.length());
         System.out.println(str.charAt(0));
+        System.out.println(str+" "+str2);
     }
 }
