@@ -1,0 +1,36 @@
+data defination language
+data manuplation language
+data quary language
+transection control language
+data control language
+
+DQL
+it used to retrive data from database SELECT
+
+DDL
+it used to define database table and other in database
+CREATE DROP ALTER TRUNCATE RENAME
+
+DML 
+it is used to manuplate the data store in database
+INSERT DELETE UPDATE
+
+DCL
+it is used to control of DATABASE Authentication 
+GRANT AND REVOKE
+
+DDL Example
+1. CREATE DATABASE
+   CREATE DATABASE IF NOT EXISTS JAYESH DEFAULT CHAR SET UTF8MB4;
+   CREATE TABLE IF NOT EXISTS DATA(name VARCHAR(30) PRIMARY KEY,);
+   DROP DATABSE JAYESH;
+
+DML 
+
+1. INSERT INTO TABLENAME filed values (),(),();
+
+
+DATATYPE IN MYSQL
+
+Numeric datatype
+1. TINYINT 
