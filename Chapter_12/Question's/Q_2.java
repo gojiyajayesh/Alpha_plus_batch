@@ -12,7 +12,7 @@ public class Q_2 {
         int min_index = minSearch(arr);
         // Find in left Sub Array
         // Find in Right Sub Array
-        return Math.max(binarySearch(arr, key, 0, min_index), binarySearch(arr, key, min_index, arr.length - 1));
+        return Math.max(binarySearch(arr, key, 0, min_index-1), binarySearch(arr, key, min_index, arr.length - 1));
     }
 
     // Search Element in Array
