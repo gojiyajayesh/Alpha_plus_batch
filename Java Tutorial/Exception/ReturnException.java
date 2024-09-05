@@ -2,6 +2,7 @@ public class ReturnException {
     public static void main(String[] args) {
         System.out.println(retu());
     }
+    @SuppressWarnings("finally")
     public static int retu(){
         try{
             return 1;
