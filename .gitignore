@@ -1,5 +1,2 @@
-# Ignore the JDBC directory
-JDBC/
-
 # Ignore the JAR files directory
 lib/
